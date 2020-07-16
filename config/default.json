@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://Vision1:Vision1@thevision.shraq.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
